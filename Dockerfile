@@ -1,3 +1,0 @@
-from marketplace-registry.cn-shanghai.cr.aliyuncs.com/20363988/nginx:1.17.5
-
-RUN echo '<div align="center" style="text-align:center"><h1>Hello ACR EE</h1></div>' > /usr/share/nginx/html/index.html
